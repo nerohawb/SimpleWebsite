@@ -4,7 +4,7 @@
     <title>Nieric's Website</title>
     @include('partials.head')
 </head>
-<body>
+<body id="page-top" class="index">
 
 @include('nav')
 
